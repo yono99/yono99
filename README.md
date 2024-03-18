@@ -16,7 +16,7 @@ Saya seorang software engineer dengan pengalaman dalam berbagai teknologi, terut
  
 - **CMS**: [![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=flat&logo=wordpress)](https://wordpress.com/)
 - **MVC**: [![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=flat&logo=laravel)](https://laravel.com/)
-- **CSS Frameworks**: [![Bootstrap](https://img.shields.io/badge/Bootstrap-5c5c5c?style=flat&logo=Bootstrap)](https://getbootstrap.com/),
+- **CSS Frameworks**: [![Bootstrap](https://img.shields.io/badge/Bootstrap-fff?style=flat&logo=Bootstrap)](https://getbootstrap.com/),
                       [![Bulma](https://img.shields.io/badge/Bulma-ffffff?style=flat&logo=Bulma)](https://bulma.io/),
                       [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-ffffff?style=flat&logo=Tailwind%20CSS)](https://tailwindcss.com/) ,
                       [![Vuetify](https://img.shields.io/badge/Vuetify-51b6db?style=flat&logo=Vuetify)](https://vuetifyjs.com/),
