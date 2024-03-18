@@ -2,6 +2,7 @@
 
 Saya seorang software engineer dengan pengalaman dalam berbagai teknologi, terutama fokus pada pengembangan web dan aplikasi.
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yono99)](https://github.com/yono99)
+![Top Langs] <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yono99&langs_count=10" align="right">
 ## 🚀 Tech Stacks
 
 - **Frontend**:  [![VueJs](https://img.shields.io/badge/VueJs-2f1a47?style=flat&logo=Vue.js)](https://vuejs.org/),
