@@ -1,7 +1,7 @@
 # Halo! Saya Cahyono 👋
 
 Saya seorang software engineer dengan pengalaman dalam berbagai teknologi, terutama fokus pada pengembangan web dan aplikasi.
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=erickchann)](https://github.com/erickchann/erickchann)
 ## 🚀 Tech Stacks
 
 - **Frontend**:  [![VueJs](https://img.shields.io/badge/VueJs-2f1a47?style=flat&logo=Vue.js)](https://vuejs.org/),
