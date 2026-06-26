@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer · Frontend & Backend · UI/UX Enthusiast — Tangerang, Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cahyono060799@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=yono99&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
