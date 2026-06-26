@@ -78,7 +78,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Nilaia — Platform Tryout AI**](https://github.com/yono99/nilaia) | Platform belajar & simulasi CAT (CPNS/UTBK) dengan AI question generation & figural reasoning engine | Next.js · Prisma · Gemini · Supabase |
+| [**Nilaia — App Android**](https://github.com/yono99/nilaia-app) | Platform belajar & simulasi CAT (CPNS/UTBK) dengan AI question generation & figural reasoning engine · [nilaia.com](https://nilaia.com) | Next.js · Prisma · Gemini · Supabase |
 | [**Vue Express TS Auth Starter**](https://github.com/yono99/vue-express-ts-auth-starter-TypeORM) | Boilerplate auth fullstack TypeScript dengan TypeORM | Vue · Express · TypeORM |
 
 ---
