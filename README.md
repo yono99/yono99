@@ -74,6 +74,36 @@
 
 ---
 
+### 🧠 Case Study — Figural Engine (nilaia.com)
+
+> Membangun engine **deterministik** untuk men-generate soal penalaran figural (Diagrammatic & Abstract Reasoning) gaya ujian CPNS/TIU — tanpa mengandalkan AI untuk menggambar.
+
+**🔴 Masalah.** Soal figural (analogi gambar, deret gambar, ketidaksamaan, diagrammatic reasoning) butuh visual yang **presisi piksel** dan **kunci jawaban yang pasti benar**. Model AI generatif (image & SVG) konsisten gagal di sini: koordinat meleset, bentuk rusak, dan — yang paling fatal — **kunci jawabannya tidak bisa dipercaya**. Untuk produk ujian, satu kunci salah = kepercayaan pengguna hilang.
+
+**🟢 Pendekatan.** Alih-alih "meminta AI menggambar", saya membalik masalahnya: **biarkan kode yang menggambar dan menghitung jawaban, AI hanya menyusun teks.**
+
+```
+config aturan  →  render SVG (kode)  →  hitung kunci jawaban (kode)  →  teks (AI, opsional)
+   (deterministik, 0 token)              (dijamin benar)
+```
+
+- Visual & kunci jawaban dihasilkan **100% deterministik** oleh kode → **0 token AI**, reproducible, dan kunci jawaban **mustahil salah** karena dihitung dari aturan yang sama yang menggambarnya.
+- AI hanya dipakai untuk merangkai *teks* pertanyaan/pembahasan pada sub-tipe tertentu — bukan untuk logika atau gambar.
+
+**⚙️ Yang saya rancang.**
+- Pustaka **80+ bentuk geometris** sebagai SVG primitif, dipakai lintas semua tipe soal dari satu sumber render.
+- Sistem **rotasi anti-monoton** sehingga variasi soal maksimal dan pola tidak mudah ditebak/berulang.
+- Beberapa keluarga aturan transformasi (rotasi, operator-chain, matriks) dengan **kontrol tingkat kesulitan** bertingkat.
+- Distraktor (opsi pengecoh) yang dihasilkan terukur, bukan acak — agar soal pilihan ganda berkualitas.
+
+**📊 Dampak.**
+- Soal figural tak terbatas, **biaya AI ~nol** untuk komponen visual, dan **akurasi kunci jawaban 100%**.
+- Menjadi pembeda teknis utama produk dibanding pendekatan berbasis AI murni yang rapuh di ranah visual.
+
+<sub>💡 Konsep procedural reasoning generation memang dikenal di riset (Raven's Matrices, DeepMind PGM). Kontribusi saya: mengadaptasinya menjadi engine produksi TypeScript/SVG yang ter-tuned untuk **sub-tipe TIU otentik Indonesia** di dalam platform nyata. Kode bersifat proprietary — happy to discuss the approach.</sub>
+
+---
+
 ### 📌 Featured Projects
 
 | Project | Description | Tech |
