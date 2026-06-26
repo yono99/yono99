@@ -1,95 +1,86 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Cahyono</h1>
+<h3 align="center">Software Engineer · Frontend & Backend · UI/UX Enthusiast — Tangerang, Indonesia 🇮🇩</h3>
 
-# Halo, saya Cahyono! 👋
-
-### Software Engineer · Frontend & Backend · UI/UX Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cahyono99/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cahyono@example.com)
-[![GitHub followers](https://img.shields.io/github/followers/yono99?label=Follow&style=flat&logo=github)](https://github.com/yono99)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:wasriyono26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yono99&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
-## 👨‍💻 Tentang Saya
+### 🚀 About Me
 
-Saya seorang **Software Engineer** dengan pengalaman di pengembangan web full-stack. Saya senang membangun produk yang tidak hanya berfungsi dengan baik, tapi juga terasa menyenangkan untuk digunakan.
-
-- 🔭 Saat ini fokus pada pengembangan **Vue.js**, **React**, dan **Next.js**
-- 🌱 Sedang mempelajari **testing & automation** dan **UI/UX design**
-- 💬 Tanya saya tentang **frontend development**, **Laravel**, atau **WordPress**
-- ⚡ Fun fact: Saya pakai lebih dari 5 CSS framework — dan punya pendapat kuat tentang masing-masing 😄
+- 🔭 Lagi ngerjain **platform belajar & tryout AI** (Next.js + Gemini + Prisma) untuk persiapan CPNS, UTBK & ujian sekolah
+- 🌱 Lagi mendalami **testing frameworks**, **system design**, dan **UI/UX principles**
+- 💬 Tanya gue soal **Vue / Nuxt / React / Next.js** atau diskusi CSS framework (gue udah coba 5+ 😅)
+- 🎯 Fokus: bikin produk yang dipakai orang beneran, bukan cuma demo
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+**Frontend**
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Backend & CMS
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+**Backend & CMS**
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**Database**
 
-### CSS Frameworks
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+**Styling**
+
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
-![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=flat&logo=buefy&logoColor=white)
 
-### Tools & Version Control
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yono99&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yono99&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yono99&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yono99&layout=compact&langs_count=8&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yono99&hide_border=true&theme=tokyonight" />
+</p>
 
-</div>
-
----
-
-## 🌱 Yang Sedang Saya Pelajari
-
-| Area | Progress |
-|------|----------|
-| 🧪 Testing & Automation (Vitest, Cypress) | Aktif dipelajari |
-| 🎨 UI/UX Design principles | Aktif dipelajari |
-| ⚡ Vue 3 Composition API & Pinia | Pendalaman |
-| 🔷 TypeScript | Pendalaman |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yono99&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 📫 Hubungi Saya
+### 📌 Featured Projects
 
-<div align="center">
+| Project | Description | Tech |
+|---|---|---|
+| [**Nilaia — Platform Tryout AI**](https://github.com/yono99/nilaia) | Platform belajar & simulasi CAT (CPNS/UTBK) dengan AI question generation & figural reasoning engine | Next.js · Prisma · Gemini · Supabase |
+| [**Vue Express TS Auth Starter**](https://github.com/yono99/vue-express-ts-auth-starter-TypeORM) | Boilerplate auth fullstack TypeScript dengan TypeORM | Vue · Express · TypeORM |
 
-Tertarik kolaborasi atau punya pertanyaan? Jangan ragu menghubungi saya!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cahyono99/)
-[![Email](https://img.shields.io/badge/Email-Send_a_message-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cahyono@example.com)
-
-<br/>
-
-*Terima kasih sudah mampir ke profil saya!* 🙏
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/yono99">yono99</a></i></p>
