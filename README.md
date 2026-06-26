@@ -78,6 +78,11 @@
 
 > Membangun engine **deterministik** untuk men-generate soal penalaran figural (Diagrammatic & Abstract Reasoning) gaya ujian CPNS/TIU — tanpa mengandalkan AI untuk menggambar.
 
+<div align="center">
+  <img src="assets/figural-demo.gif" width="640" alt="Demo output figural engine — soal analogi & diagrammatic reasoning ter-render otomatis" />
+  <br/><sub>Output asli engine — tiap soal (visual + kunci jawaban) dihasilkan otomatis & deterministik.</sub>
+</div>
+
 **🔴 Masalah.** Soal figural (analogi gambar, deret gambar, ketidaksamaan, diagrammatic reasoning) butuh visual yang **presisi piksel** dan **kunci jawaban yang pasti benar**. Model AI generatif (image & SVG) konsisten gagal di sini: koordinat meleset, bentuk rusak, dan — yang paling fatal — **kunci jawabannya tidak bisa dipercaya**. Untuk produk ujian, satu kunci salah = kepercayaan pengguna hilang.
 
 **🟢 Pendekatan.** Alih-alih "meminta AI menggambar", saya membalik masalahnya: **biarkan kode yang menggambar dan menghitung jawaban, AI hanya menyusun teks.**
