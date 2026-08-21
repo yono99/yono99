@@ -58,23 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yono99&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yono99&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yono99&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yono99&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ### 🧠 Case Study — Figural Engine (nilaia.com)
 
 > Membangun engine **deterministik** untuk men-generate soal penalaran figural (Diagrammatic & Abstract Reasoning) gaya ujian CPNS/TIU — tanpa mengandalkan AI untuk menggambar.
